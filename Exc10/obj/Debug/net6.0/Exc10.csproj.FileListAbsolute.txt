@@ -1,0 +1,15 @@
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\bin\Debug\net6.0\Exc10.exe
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\bin\Debug\net6.0\Exc10.deps.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\bin\Debug\net6.0\Exc10.runtimeconfig.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\bin\Debug\net6.0\Exc10.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\bin\Debug\net6.0\Exc10.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\obj\Debug\net6.0\Exc10.csproj.AssemblyReference.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\obj\Debug\net6.0\Exc10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\obj\Debug\net6.0\Exc10.AssemblyInfoInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\obj\Debug\net6.0\Exc10.AssemblyInfo.cs
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\obj\Debug\net6.0\Exc10.csproj.CoreCompileInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\obj\Debug\net6.0\Exc10.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\obj\Debug\net6.0\refint\Exc10.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\obj\Debug\net6.0\Exc10.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\obj\Debug\net6.0\Exc10.genruntimeconfig.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 2 (примеры и дз)\Exc10\obj\Debug\net6.0\ref\Exc10.dll
